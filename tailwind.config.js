@@ -7,6 +7,9 @@ export default {
         satisfy: "'Satisfy', cursive",
         playfair: "'Playfair Display', serif",
       },
+      screens:{
+        'ss': '350px'
+      }
     },
   },
   plugins: [],
