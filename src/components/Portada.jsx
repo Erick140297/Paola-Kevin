@@ -15,7 +15,7 @@ const Portada = () => {
       </div>
       <audio
         src="https://res.cloudinary.com/dnrcmjyu1/video/upload/v1716300256/Invitame%20ya/PERFECT-Ed-Sheeran-_Saxophone-Version__nvpgtn.mp3"
-        className="fixed bottom-2"
+        className="fixed bottom-2 z-20"
         controls
         loop
       ></audio>
