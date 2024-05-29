@@ -1,4 +1,8 @@
 const CardDatos = ({ Title, image, where, when, addres, link }) => {
+  const handleButtonClick = (link) => {
+    window.open(link, "_blank");
+  };
+
   return (
     <div className="bg-white rounded-xl shadow-lg mx-5 relative flex flex-col justify-between pb-16 z-10 w-full max-w-md mb-6">
       <div className="p-5 flex flex-col flex-grow">
@@ -24,7 +28,7 @@ const CardDatos = ({ Title, image, where, when, addres, link }) => {
       </div>
       <button
         className="bg-yellow-700 hover:bg-yellow-800 text-white font-bold py-2 px-4 rounded-full absolute bottom-2.5 left-1/2 transform -translate-x-1/2"
-        onClick={() => window.open(link, '_blank')}
+        onClick={() => handleButtonClick(link)}
       >
         Ver mapa
       </button>
