@@ -25,12 +25,12 @@ const Datos = () => {
 
   return (
     <div className="bg-lime-700 min-h-screen md:mx-24 lg:mx-32 flex flex-col items-center">
-      <h2 className="text-white  text-center p-4 lg:text-6xl text-4xl font-playfair text-shadow">
+      <h2 className="text-white text-center p-4 lg:text-6xl text-4xl font-playfair text-shadow">
         ¿Dónde y cuándo?
       </h2>
-      <div className="grid grid-cols-1 md:grid-cols-2 gap-y-4 md:gap-y-0">
+      <div className="grid grid-cols-1 md:grid-cols-2 gap-4 w-full">
         {data.map((e, i) => (
-          <div className="mb-4 md:mb-0" key={i}>
+          <div className="flex justify-center" key={i}>
             <Card
               Title={e.Title}
               image={e.image}
