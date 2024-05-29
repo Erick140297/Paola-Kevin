@@ -1,4 +1,4 @@
-import Card from "./Card";
+import CardDatos from "./CardDatos";
 
 const Datos = () => {
   const data = [
@@ -24,14 +24,14 @@ const Datos = () => {
   ];
 
   return (
-    <div className="bg-lime-700 min-h-screen md:mx-24 lg:mx-32 flex flex-col items-center">
+    <div className="bg-yellow-200 min-h-screen md:mx-24 lg:mx-32 flex flex-col items-center">
       <h2 className="text-white text-center p-4 lg:text-6xl text-4xl font-playfair text-shadow">
         ¿Dónde y cuándo?
       </h2>
       <div className="grid grid-cols-1 md:grid-cols-2 gap-4 w-full">
         {data.map((e, i) => (
-          <div className="flex justify-center" key={i}>
-            <Card
+          <div className="flex justify-center " key={i}>
+            <CardDatos
               Title={e.Title}
               image={e.image}
               where={e.where}

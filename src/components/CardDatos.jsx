@@ -1,6 +1,6 @@
-const Card = ({ Title, image, where, when, addres, link }) => {
+const CardDatos = ({ Title, image, where, when, addres, link }) => {
   return (
-    <div className="bg-white rounded-xl shadow-lg mx-5 relative flex flex-col justify-between pb-16 z-10 w-full max-w-md">
+    <div className="bg-white rounded-xl shadow-lg mx-5 relative flex flex-col justify-between pb-16 z-10 w-full max-w-md mb-6">
       <div className="p-5 flex flex-col flex-grow">
         <h2 className="text-2xl md:text-3xl lg:text-4xl font-satisfy font-bold">
           {Title}
@@ -23,7 +23,7 @@ const Card = ({ Title, image, where, when, addres, link }) => {
         </p>
       </div>
       <button
-        className="bg-lime-700 hover:bg-lime-800 text-white font-bold py-2 px-4 rounded-full absolute bottom-2.5 left-1/2 transform -translate-x-1/2"
+        className="bg-yellow-700 hover:bg-yellow-800 text-white font-bold py-2 px-4 rounded-full absolute bottom-2.5 left-1/2 transform -translate-x-1/2"
         onClick={() => window.open(link, '_blank')}
       >
         Ver mapa
@@ -32,4 +32,4 @@ const Card = ({ Title, image, where, when, addres, link }) => {
   );
 };
 
-export default Card;
+export default CardDatos;
