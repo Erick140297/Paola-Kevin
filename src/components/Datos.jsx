@@ -5,7 +5,7 @@ const Datos = () => {
     {
       Title: "Ceremonia Religiosa",
       image:
-        "https://res.cloudinary.com/dnrcmjyu1/image/upload/v1716488647/Invitame%20ya/parroquia_di1kzi.jpg",
+        "https://res.cloudinary.com/dnrcmjyu1/image/upload/v1717027706/Invitame%20ya/iglesia_rs3oix.jpg",
       where: "Parroquia de San José Patriarca",
       when: "31 de agosto de 2024, 14:00 horas",
       addres: "C.Chopo s/n Col.San José, Chicoloapan, Méx. C.P. 56377",
