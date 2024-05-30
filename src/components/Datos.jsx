@@ -24,7 +24,7 @@ const Datos = () => {
   ];
 
   return (
-    <div className="bg-yellow-200 min-h-screen md:mx-24 lg:mx-32 flex flex-col items-center">
+    <div className="bg-yellow-100 min-h-screen md:mx-24 lg:mx-32 flex flex-col items-center">
       <h2 className="text-center p-4 lg:text-6xl text-4xl font-playfair text-shadow">
         ¿Dónde y cuándo?
       </h2>
