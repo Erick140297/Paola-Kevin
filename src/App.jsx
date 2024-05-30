@@ -16,8 +16,8 @@ const App = () => {
       <History />
       <Datos />
       <Itinerario />
-      <Nosotros />
-      {/* 
+
+      {/* <Nosotros />
       <Padres />
       <Padrinos />
       <Regalos />
