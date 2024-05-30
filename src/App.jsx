@@ -23,9 +23,7 @@ const App = () => {
       <Padres />
       <Regalos />
       <Confirmar />
-
-      {/* 
-      <Footer /> */}
+      <Footer />
     </div>
   );
 };
