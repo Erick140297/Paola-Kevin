@@ -3,8 +3,8 @@ import "../index.css";
 
 const Portada = () => {
   return (
-    <div className="bg-[url(https://res.cloudinary.com/dnrcmjyu1/image/upload/v1716253250/Invitame%20ya/boda_qkd3ce.jpg)] bg-cover bg-center md:mx-24 lg:mx-32 min-h-screen flex flex-col justify-center items-center">
-      <div className="text-stone-50  text-center">
+    <div className="bg-[url(https://res.cloudinary.com/dnrcmjyu1/image/upload/v1716253250/Invitame%20ya/boda_qkd3ce.jpg)] bg-cover bg-center md:mx-24 lg:mx-32 min-h-screen flex flex-col justify-between items-center">
+      <div className="text-stone-50 text-center flex flex-col justify-center flex-grow">
         <h2 className="font-satisfy lg:text-8xl md:text-6xl sm:text-4xl ss:text-4xl text-3xl text-shadow">
           Paola & Kevin
         </h2>
@@ -15,7 +15,7 @@ const Portada = () => {
       </div>
       <audio
         src="https://res.cloudinary.com/dnrcmjyu1/video/upload/v1716300256/Invitame%20ya/PERFECT-Ed-Sheeran-_Saxophone-Version__nvpgtn.mp3"
-        className="fixed bottom-2 z-20"
+        className="m-8"
         controls
         loop
       ></audio>
