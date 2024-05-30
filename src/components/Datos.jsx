@@ -7,7 +7,7 @@ const Datos = () => {
       image:
         "https://res.cloudinary.com/dnrcmjyu1/image/upload/v1717027706/Invitame%20ya/iglesia_rs3oix.jpg",
       where: "Parroquia de San José Patriarca",
-      when: "31 de agosto de 2024, 14:00 horas",
+      when: "31 de agosto de 2024, 13:30 horas",
       addres: "C.Chopo s/n Col.San José, Chicoloapan, Méx. C.P. 56377",
       link: "https://maps.app.goo.gl/kNoZyUtf4uWspKfRA",
     },
