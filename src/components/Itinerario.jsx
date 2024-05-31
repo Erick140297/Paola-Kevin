@@ -26,8 +26,8 @@ const Itinerario = () => {
   ];
 
   return (
-    <div className="bg-olive md:mx-24 lg:mx-32 flex flex-col items-center pb-2">
-      <h2 className="text-white text-center p-4 lg:text-6xl text-4xl font-playfair text-shadow">
+    <div className="bg-white md:mx-24 lg:mx-32 flex flex-col items-center pb-2">
+      <h2 className="text-olive text-center p-4 lg:text-6xl text-4xl font-playfair text-shadow">
         Itinerario
       </h2>
       <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4 p-4">

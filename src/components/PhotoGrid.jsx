@@ -10,8 +10,8 @@ const PhotoGrid = () => {
   ];
 
   return (
-    <div className="bg-yellow-100 md:mx-24 lg:mx-32 flex flex-col items-center justify-center">
-      <p className="font-satisfy text-center md:text-4xl sm:text-3xl ss:text-2xl text-1xl  p-6">
+    <div className="bg-white md:mx-24 lg:mx-32 flex flex-col items-center justify-center">
+      <p className="text-olive font-satisfy text-center md:text-4xl sm:text-3xl ss:text-2xl text-1xl  p-6">
         Todos los días juntos son días maravillosos y queremos que nos acompañen
         en el más importante de todos.
       </p>
