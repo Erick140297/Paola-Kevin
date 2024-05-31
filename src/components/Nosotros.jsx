@@ -4,12 +4,12 @@ import CardPerson from "./CardPerson";
 const Nosotros = () => {
   const data = [
     {
-      link: "https://res.cloudinary.com/dnrcmjyu1/image/upload/v1717041778/Invitame%20ya/Ella_x1cdpq.gif",
+      link: "https://res.cloudinary.com/dnrcmjyu1/image/upload/v1717130198/kevin/Ella_od8dhv.jpg",
       name: "Paola Daniela",
       lastName: "López Martínez",
     },
     {
-      link: "https://res.cloudinary.com/dnrcmjyu1/image/upload/v1717041773/Invitame%20ya/El_paudai.gif",
+      link: "https://res.cloudinary.com/dnrcmjyu1/image/upload/v1717130198/kevin/El_zpt5uo.jpg",
       name: "Kevin",
       lastName: "Mendoza Carrillo",
     },

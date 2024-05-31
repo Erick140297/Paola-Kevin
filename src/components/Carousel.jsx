@@ -3,7 +3,7 @@ import CarouselConfig from "./CarouselConfig";
 
 const Carousel = () => {
   const images = [
-    "https://res.cloudinary.com/dnrcmjyu1/image/upload/v1717029223/kevin/02_hft753.jpg",
+    "https://res.cloudinary.com/dnrcmjyu1/image/upload/v1717130316/kevin/10_bftxfg.jpg",
     "https://res.cloudinary.com/dnrcmjyu1/image/upload/v1717029224/kevin/07_vfy0jl.jpg",
     "https://res.cloudinary.com/dnrcmjyu1/image/upload/v1717029224/kevin/08_gxpbju.jpg",
   ];
