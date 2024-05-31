@@ -7,9 +7,12 @@ export default {
         satisfy: "'Satisfy', cursive",
         playfair: "'Playfair Display', serif",
       },
-      screens:{
-        'ss': '350px'
-      }
+      screens: {
+        ss: "350px",
+      },
+      colors: {
+        "olive": "#808000",
+      },
     },
   },
   plugins: [],

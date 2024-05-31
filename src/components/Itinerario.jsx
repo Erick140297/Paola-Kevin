@@ -26,8 +26,8 @@ const Itinerario = () => {
   ];
 
   return (
-    <div className="bg-yellow-100 md:mx-24 lg:mx-32 flex flex-col items-center pb-2">
-      <h2 className="text-center p-4 lg:text-6xl text-4xl font-playfair text-shadow">
+    <div className="bg-olive md:mx-24 lg:mx-32 flex flex-col items-center pb-2">
+      <h2 className="text-white text-center p-4 lg:text-6xl text-4xl font-playfair text-shadow">
         Itinerario
       </h2>
       <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4 p-4">
@@ -35,7 +35,7 @@ const Itinerario = () => {
           <CardItinerario key={i} img={e.img} Title={e.Title} Hour={e.Hour} />
         ))}
       </div>
-      <p className="font-satisfy text-center md:text-4xl sm:text-3xl ss:text-2xl text-1xl  p-6">
+      <p className="text-white font-satisfy text-center md:text-4xl sm:text-3xl ss:text-2xl text-1xl  p-6">
         Vamos a escribir juntos la página 1 del libro de nuestros sueños.
       </p>
     </div>
