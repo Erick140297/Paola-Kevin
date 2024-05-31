@@ -1,16 +1,21 @@
 const History = () => {
   return (
     <div className="bg-[url(https://res.cloudinary.com/dnrcmjyu1/image/upload/v1716301820/Invitame%20ya/white_ts7nre.jpg)] bg-cover bg-center md:mx-24 lg:mx-32 min-h-screen flex flex-col justify-center items-center">
-      <div className="text-black  text-center">
-        <h2 className="lg:text-6xl text-4xl font-satisfy  text-shadow">
+      <div className="text-black text-center flex flex-col items-center">
+        <h2 className="lg:text-6xl text-4xl font-satisfy drop-shadow-md">
           Hoy empieza
         </h2>
-        <h2 className="lg:text-6xl text-4xl font-satisfy text-shadow">
+        <h2 className="lg:text-6xl text-4xl font-satisfy drop-shadow-md">
           la mejor historia:
         </h2>
-        <h2 className="lg:text-6xl text-4xl font-satisfy text-shadow">
+        <h2 className="lg:text-6xl text-4xl font-satisfy drop-shadow-md">
           la nuestra.
         </h2>
+        <img
+          src="https://res.cloudinary.com/dnrcmjyu1/image/upload/v1717130381/kevin/logo_ajorxr.jpg"
+          alt="logo"
+          className="h-40 mt-8 transition-transform transform hover:scale-105 duration-300 ease-in-out"
+        />
       </div>
     </div>
   );

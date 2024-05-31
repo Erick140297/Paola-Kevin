@@ -8,7 +8,7 @@ const CardPerson = ({ link, name, lastName }) => {
         alt={name}
         className="w-full h-64 object-cover rounded-t-xl"
       />
-      <div className="p-6">
+      <div className="p-6 text-olive">
         <h2 className="text-2xl text-center font-satisfy">{name}</h2>
         <h2 className="text-2xl text-center font-satisfy">{lastName}</h2>
       </div>
