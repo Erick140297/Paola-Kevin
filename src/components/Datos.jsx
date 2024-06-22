@@ -14,7 +14,8 @@ const Datos = () => {
     {
       Title: "Recepción",
       image:
-        "https://res.cloudinary.com/dnrcmjyu1/image/upload/v1716488647/Invitame%20ya/salon_dnhsow.jpg",
+      "https://res.cloudinary.com/dnrcmjyu1/image/upload/v1719100008/kevin/salon_gnyf8w.jpg",
+        //"https://res.cloudinary.com/dnrcmjyu1/image/upload/v1716488647/Invitame%20ya/salon_dnhsow.jpg",
       where: "Salón Punta Azul",
       when: "31 de agosto de 2024, 18:00 horas",
       addres:
