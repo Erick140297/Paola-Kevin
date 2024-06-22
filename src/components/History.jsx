@@ -14,7 +14,7 @@ const History = () => {
         <img
           src="https://res.cloudinary.com/dnrcmjyu1/image/upload/v1717130381/kevin/logo_ajorxr.jpg"
           alt="logo"
-          className="h-40 mt-8 transition-transform transform hover:scale-105 duration-300 ease-in-out"
+          className="h-40 w-40 rounded-full mt-8 transition-transform transform hover:scale-105 duration-300 ease-in-out"
         />
       </div>
     </div>
