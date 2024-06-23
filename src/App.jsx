@@ -19,7 +19,7 @@ const App = () => {
       <Itinerario />
       <Nosotros />
       <Carousel />
-      <PhotoGrid />
+      {/* <PhotoGrid /> */}
       <Padres />
       <Regalos />
       <Confirmar />
