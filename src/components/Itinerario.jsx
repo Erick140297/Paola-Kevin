@@ -19,9 +19,19 @@ const Itinerario = () => {
       Hour: "18:30",
     },
     {
-      img: "https://res.cloudinary.com/dnrcmjyu1/image/upload/v1717024021/Invitame%20ya/evento_h0kji5.png",
-      Title: "Inicio de evento",
+      img: "https://res.cloudinary.com/dnrcmjyu1/image/upload/v1719102365/Invitame%20ya/pareja-de-boda_qgkak2.png",
+      Title: "Presentación de los novios",
       Hour: "19:00",
+    },
+    {
+      img: "https://res.cloudinary.com/dnrcmjyu1/image/upload/v1719102734/Invitame%20ya/banquete_uxbnpi.png",
+      Title: "Banquete",
+      Hour: "19:30",
+    },
+    {
+      img: "https://res.cloudinary.com/dnrcmjyu1/image/upload/v1717024021/Invitame%20ya/evento_h0kji5.png",
+      Title: "Que siga la fiesta",
+      Hour: "21:00",
     },
   ];
 
