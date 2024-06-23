@@ -16,7 +16,7 @@ const Nosotros = () => {
   ];
 
   return (
-    <div className="bg-white md:mx-24 lg:mx-32 flex flex-col items-center pb-2">
+    <div className="bg-gradient-to-r from-amber-200 via-orange-100 to-amber-200 md:mx-24 lg:mx-32 flex flex-col items-center pb-2">
       <h2 className="text-olive text-center p-4 lg:text-6xl text-4xl font-playfair text-shadow">
         Nosotros
       </h2>
