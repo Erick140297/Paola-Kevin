@@ -36,7 +36,7 @@ const Itinerario = () => {
   ];
 
   return (
-    <div className="bg-[url(https://res.cloudinary.com/dnrcmjyu1/image/upload/v1719103810/kevin/fondo02_f0vyvx.jpg)] bg-cover bg-center md:mx-24 lg:mx-32 flex flex-col items-center pb-2">
+    <div className="bg-[url(https://res.cloudinary.com/dnrcmjyu1/image/upload/v1719177032/kevin/images-7_sfw11o.jpg)] bg-cover bg-center md:mx-24 lg:mx-32 flex flex-col items-center pb-2">
       <h2 className="text-olive text-center p-4 lg:text-6xl text-4xl font-playfair text-shadow">
         Itinerario
       </h2>

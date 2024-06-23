@@ -25,7 +25,7 @@ const Datos = () => {
   ];
 
   return (
-    <div className="bg-[url(https://res.cloudinary.com/dnrcmjyu1/image/upload/v1719103810/kevin/fondo01_rjou0s.jpg)] bg-cover bg-center min-h-screen md:mx-24 lg:mx-32 flex flex-col items-center">
+    <div className="bg-[url(https://res.cloudinary.com/dnrcmjyu1/image/upload/v1719177032/kevin/images-9_ajon01.jpg)] bg-cover bg-center min-h-screen md:mx-24 lg:mx-32 flex flex-col items-center">
       <h2 className="text-olive text-center p-4 lg:text-6xl text-4xl font-playfair text-shadow">
         ¿Dónde y cuándo?
       </h2>

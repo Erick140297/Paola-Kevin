@@ -3,7 +3,7 @@ import CardLiverpool from "./CardLiverpool";
 
 const Regalos = () => {
   return (
-    <div className="bg-white text-olive md:mx-24 lg:mx-32 flex flex-col items-center pb-2">
+    <div className="bg-[url(https://res.cloudinary.com/dnrcmjyu1/image/upload/v1716301820/Invitame%20ya/white_ts7nre.jpg)] bg-cover bg-center text-olive md:mx-24 lg:mx-32 flex flex-col items-center pb-2">
       <h2 className="text-center p-4 lg:text-6xl text-4xl font-playfair text-shadow">
         Mesa de regalos
       </h2>
