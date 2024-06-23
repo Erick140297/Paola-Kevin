@@ -15,12 +15,12 @@ const App = () => {
     <div className="bg-olive">
       <Portada />
       <History />
+      <Nosotros />
+      <Padres />
       <Datos />
       <Itinerario />
-      <Nosotros />
       <Carousel />
       {/* <PhotoGrid /> */}
-      <Padres />
       <Regalos />
       <Confirmar />
       <Footer />
