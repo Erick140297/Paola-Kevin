@@ -12,6 +12,7 @@ export default {
       },
       colors: {
         "olive": "#808000",
+        "olive-100":"#9DAA9B"
       },
     },
   },
