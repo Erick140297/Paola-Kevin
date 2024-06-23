@@ -14,8 +14,8 @@ const Datos = () => {
     {
       Title: "Recepción",
       image:
-        "https://res.cloudinary.com/dnrcmjyu1/image/upload/v1719100008/kevin/salon_gnyf8w.jpg",
-      //"https://res.cloudinary.com/dnrcmjyu1/image/upload/v1716488647/Invitame%20ya/salon_dnhsow.jpg",
+      "https://res.cloudinary.com/dnrcmjyu1/image/upload/v1719100008/kevin/salon_gnyf8w.jpg",
+        //"https://res.cloudinary.com/dnrcmjyu1/image/upload/v1716488647/Invitame%20ya/salon_dnhsow.jpg",
       where: "Salón Punta Azul",
       when: "31 de agosto de 2024, 18:00 horas",
       addres:
@@ -25,7 +25,7 @@ const Datos = () => {
   ];
 
   return (
-    <div className="bg-[url(https://res.cloudinary.com/dnrcmjyu1/image/upload/v1719103810/kevin/fondo01_rjou0s.jpg)] bg-cover bg-center md:mx-24 lg:mx-32 min-h-screen flex flex-col justify-center items-center">
+    <div className="bg-[url(https://res.cloudinary.com/dnrcmjyu1/image/upload/v1719103810/kevin/fondo01_rjou0s.jpg)] bg-cover bg-center min-h-screen md:mx-24 lg:mx-32 flex flex-col items-center">
       <h2 className="text-olive text-center p-4 lg:text-6xl text-4xl font-playfair text-shadow">
         ¿Dónde y cuándo?
       </h2>
