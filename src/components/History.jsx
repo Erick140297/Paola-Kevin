@@ -12,7 +12,7 @@ const History = () => {
           la nuestra.
         </h2>
         <img
-          src="https://res.cloudinary.com/dnrcmjyu1/image/upload/v1719260777/kevin/logo_ajorxr-Photoroom_ha9x6c.jpg"
+          src="https://res.cloudinary.com/dnrcmjyu1/image/upload/v1719261821/kevin/logo_ajorxr-Photoroom_d6wipj.png"
           alt="logo"
           className="h-40 w-40 rounded-full mt-8 transition-transform transform hover:scale-105 duration-300 ease-in-out"
         />
