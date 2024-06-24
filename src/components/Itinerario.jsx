@@ -6,32 +6,32 @@ const Itinerario = () => {
     {
       img: "https://res.cloudinary.com/dnrcmjyu1/image/upload/v1717024021/Invitame%20ya/ceremonia_religiosa_vz0asf.png",
       Title: "Ceremonia Religiosa",
-      Hour: "13:30",
+      Hour: "13:30 Horas",
     },
     {
       img: "https://res.cloudinary.com/dnrcmjyu1/image/upload/v1717024021/Invitame%20ya/recepcion_ar7rdo.png",
       Title: "Recepción",
-      Hour: "18:00",
+      Hour: "18:00 Horas",
     },
     {
       img: "https://res.cloudinary.com/dnrcmjyu1/image/upload/v1717024021/Invitame%20ya/boda_civil_yrn0kd.png",
       Title: "Boda Civil",
-      Hour: "18:30",
+      Hour: "18:30 Horas",
     },
     {
       img: "https://res.cloudinary.com/dnrcmjyu1/image/upload/v1719102365/Invitame%20ya/pareja-de-boda_qgkak2.png",
       Title: "Presentación de los novios",
-      Hour: "19:00",
+      Hour: "19:00 Horas",
     },
     {
       img: "https://res.cloudinary.com/dnrcmjyu1/image/upload/v1719102734/Invitame%20ya/banquete_uxbnpi.png",
       Title: "Banquete",
-      Hour: "19:30",
+      Hour: "19:30 Horas",
     },
     {
       img: "https://res.cloudinary.com/dnrcmjyu1/image/upload/v1717024021/Invitame%20ya/evento_h0kji5.png",
-      Title: "Que siga la fiesta",
-      Hour: "21:00",
+      Title: "Que siga la fiesta ...",
+      Hour: "",
     },
   ];
 
