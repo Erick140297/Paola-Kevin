@@ -3,7 +3,7 @@ import WhatsAppButton from "./WhatsAppButton";
 
 const Confirmar = () => {
   return (
-    <div className="bg-[url(https://res.cloudinary.com/dnrcmjyu1/image/upload/v1719103810/kevin/fondo01_rjou0s.jpg)] bg-cover bg-center text-olive md:mx-24 lg:mx-32 flex flex-col items-center pb-2">
+    <div className="bg-[url(https://res.cloudinary.com/dnrcmjyu1/image/upload/v1719177032/kevin/images-7_sfw11o.jpg)] bg-cover bg-center text-olive md:mx-24 lg:mx-32 flex flex-col items-center pb-2">
       <h2 className="text-center p-4 lg:text-6xl text-4xl font-playfair text-shadow">
         Confírmanos tu asistencia
       </h2>

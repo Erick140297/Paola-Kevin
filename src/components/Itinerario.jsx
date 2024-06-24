@@ -45,9 +45,6 @@ const Itinerario = () => {
           <CardItinerario key={i} img={e.img} Title={e.Title} Hour={e.Hour} />
         ))}
       </div>
-      <p className="text-olive font-satisfy text-center md:text-4xl sm:text-3xl ss:text-2xl text-1xl  p-6">
-        Vamos a escribir juntos la página 1 del libro de nuestros sueños.
-      </p>
     </div>
   );
 };

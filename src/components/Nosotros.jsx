@@ -20,9 +20,12 @@ const Nosotros = () => {
       className="bg-cover bg-center md:mx-24 lg:mx-32 flex flex-col items-center pb-2"
       style={{
         backgroundImage:
-          "url(https://res.cloudinary.com/dnrcmjyu1/image/upload/v1719103810/kevin/fondo01_rjou0s.jpg)",
+          "url(https://res.cloudinary.com/dnrcmjyu1/image/upload/v1719177032/kevin/images-7_sfw11o.jpg)",
       }}
     >
+      <p className="text-olive font-satisfy text-center md:text-4xl sm:text-3xl ss:text-2xl text-1xl  p-6">
+        Vamos a escribir juntos la página 1 del libro de nuestros sueños.
+      </p>
       <h2 className="text-olive text-center p-4 lg:text-6xl text-4xl font-playfair text-shadow">
         Nosotros
       </h2>
