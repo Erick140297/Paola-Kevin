@@ -4,7 +4,7 @@ const CardDatos = ({ Title, image, where, when, addres, link }) => {
   };
 
   return (
-    <div className="bg-olive text-white rounded-xl shadow-lg mx-5 relative flex flex-col justify-between pb-16 z-10 w-full max-w-md mb-6">
+    <div className="text-olive bg-white rounded-xl shadow-lg mx-5 relative flex flex-col justify-between pb-16 z-10 w-full max-w-md mb-6">
       <div className="p-5 flex flex-col flex-grow">
         <h2 className="text-2xl md:text-3xl lg:text-4xl font-satisfy font-bold">
           {Title}
