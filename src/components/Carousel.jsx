@@ -31,7 +31,7 @@ const Carousel = () => {
   ];
 
   return (
-    <div className="bg-white md:mx-24 lg:mx-32 flex flex-col items-center justify-center">
+    <div className="bg-[url(https://res.cloudinary.com/dnrcmjyu1/image/upload/v1719177032/kevin/images-7_sfw11o.jpg)] bg-cover bg-center md:mx-24 lg:mx-32 flex flex-col items-center justify-center">
       <p className="text-olive font-satisfy text-center md:text-4xl sm:text-3xl ss:text-2xl text-1xl  p-6">
         Todos los días juntos son días maravillosos y queremos que nos acompañen
         en el más importante de todos
